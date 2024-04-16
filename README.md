@@ -1,4 +1,4 @@
-✨ Hi, I'm Junior Oliveira Mendes 👋
+🚀 Hi, I'm Junior Oliveira Mendes 👋
 
 - 🌲 Forestry and Occupational Safety Engineer
 - 👨🏾‍🎓 PhD in forest management
