@@ -11,18 +11,18 @@ Hi, I'm Junior Oliveira Mendes 👋
 
 <div align="center">
   <a href="https://github.com/junioromendes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junioromendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioromendes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=junioromendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioromendes&layout=compact&langs_count=7&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Amazon WebServices" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-  <img align="center" alt="hadoop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />
-  <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" />
-  <img align="center" alt="sqldeveloper" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Amazon WebServices" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="hadoop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg">
+  <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="r" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg">
+  <img align="center" alt="sqldeveloper" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
 </div>
 
 ##
