@@ -1,7 +1,7 @@
 🚀 Hi, I'm Junior Oliveira Mendes 👋
 
 - 🌲 Forestry and Occupational Safety Engineer
-- 👨🏾‍🎓 PhD in forest management
+- 👨🏾‍🎓 PhD in Forest Management
 - 📊 Data Scientist
 - 💬 Optimization, Machine Learning, Experimental Statistics, Forest Growth and Production
 - 📫 E-mail: junioromendes@gmail.com
