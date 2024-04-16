@@ -33,6 +33,10 @@ Hi, I'm Junior Oliveira Mendes 👋
   <a href="https://www.linkedin.com/in/junior-oliveira-mendes-7aaa6136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
 
  
-  ![Snake animation](https://github.com/junioromendes/junioromendes/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/junioromendes/junioromendes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/junioromendes/junioromendes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/junioromendes/junioromendes/output/github-contribution-grid-snake.svg">
+</picture>
  
 </div>
